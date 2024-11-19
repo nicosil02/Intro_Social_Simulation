@@ -1,7 +1,6 @@
 # Introduction to Social Simulation  
 
-**Nicolás Silva Andújar**  
-[LinkedIn](https://www.linkedin.com/in/nicolassilvaandujar)  
+[**Nicolás Silva Andújar**](https://www.linkedin.com/in/nicolassilvaandujar)  
 
 **Curso:** Analítica Social e Inteligencia Estratégica  
 
