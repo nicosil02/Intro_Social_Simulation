@@ -6,7 +6,7 @@
 
 **Profesor**: Jose Manuel Magallanes Reyes
 
-**Enlace a la tarea**:
+[**Enlace a la tarea**](https://nicosil02.github.io/Intro_Social_Simulation/Intro_Social_Simulation.html)
 
 ---
 
