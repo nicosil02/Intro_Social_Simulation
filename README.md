@@ -2,7 +2,9 @@
 
 [**Nicolás Silva Andújar**](https://www.linkedin.com/in/nicolassilvaandujar)  
 
-**Curso:** Analítica Social e Inteligencia Estratégica  
+**Curso:** Analítica Social e Inteligencia Estratégica - ASIE
+
+**Profesor**: Jose Manuel Magallanes Reyes
 
 **Enlace a la tarea**:
 ---
