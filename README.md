@@ -20,6 +20,5 @@ Estos ejercicios ofrecen un acercamiento práctico y entretenido para entender c
 
 ---
 
-¡Prepárate para aprender, jugar y analizar de manera estratégica!
 
 
